@@ -1,5 +1,8 @@
 # Initializr - Documentation
 
+## Test branch changes
+	This is a test
+
 ## Download or Print
 
 The idea of Initializr API is pretty simple. You can either download an archive or display its content.

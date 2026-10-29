@@ -5,7 +5,9 @@
 	This ti test locally switch to a branch on GitHub
      more changes locally
 	 rebase cghanges test
-	conlicting changes rebase
+<<<<<<< HEAD
+	conlicting changes rebas mergede
+>>>>>>> refs/remotes/origin/develop
 
 ## Download or Print
 

@@ -2,6 +2,7 @@
 
 ## Test branch changes
 	This is a test
+	This ti test locally switch to a branch on GitHub
 
 ## Download or Print
 

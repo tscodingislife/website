@@ -5,6 +5,7 @@
 	This ti test locally switch to a branch on GitHub
      more changes locally
 	 rebase cghanges test
+	 problematic changes from GitHub
 
 ## Download or Print
 
